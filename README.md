@@ -5,3 +5,5 @@
 3. Clone this repo.
 4. `yarn install`.
 5. Test if you are seeing the page with `yarn start`.
+
+![Preview](https://raw.githubusercontent.com/iamryanyu/cm-devcamp-2019-micro-interaction-workshop/master/public/workshop-preview.png)
