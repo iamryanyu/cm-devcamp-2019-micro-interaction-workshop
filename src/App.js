@@ -29,7 +29,7 @@ class App extends Component {
     return (
       <AppStyled>
         <div>
-          <Heading1Styled>🏕 Welcome!</Heading1Styled>
+          <Heading1Styled>👋 Welcome!</Heading1Styled>
           <Heading2Styled>Micro-interactions Workshop</Heading2Styled>
         </div>
       </AppStyled>
